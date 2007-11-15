@@ -1,0 +1,17 @@
+Changes
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+TODO
+
+lib/Mac/iTunes/Item.pm
+lib/Mac/iTunes/Library.pm
+lib/Mac/iTunes/XML.pm
+
+t/Item.t
+t/Library.t
+t/iTunes_Music_Library.xml
+
+examples/iTunesStats.pl
+META.yml                                 Module meta-data (added by MakeMaker)
